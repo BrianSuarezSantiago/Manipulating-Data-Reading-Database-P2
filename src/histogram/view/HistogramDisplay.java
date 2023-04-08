@@ -16,7 +16,7 @@ import org.jfree.chart.plot.PlotOrientation;
  * of the main structure of simple bar chart graphical applications.
  *
  * @author Brian Suárez Santiago
- * @version 1.0.0
+ * @version 2.0.0
  * @see <a href="https://docs.oracle.com/javase/7/docs/api/javax/swing/package-summary.html">Package javax.swing</a>
  * @see <a href="https://docs.oracle.com/javase/7/docs/api/java/awt/package-summary.html">Package java.awt</a>
  * @see <a href="https://www.jfree.org/jfreechart/api/javadoc/index.html">JFreeChart API</a>

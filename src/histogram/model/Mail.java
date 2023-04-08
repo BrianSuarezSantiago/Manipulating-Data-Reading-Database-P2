@@ -6,7 +6,7 @@ package histogram.model;
  * the corresponding substring with the domain.
  *
  * @author Brian Suárez Santiago
- * @version 1.0.0
+ * @version 2.0.0
  */
 public class Mail {
     private final String mail;

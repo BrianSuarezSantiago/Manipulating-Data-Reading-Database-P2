@@ -8,7 +8,7 @@ import java.util.List;
  * each domain
  *
  * @author Brian Suárez Santiago
- * @version 1.0.0
+ * @version 2.0.0
  * @see <a href="https://docs.oracle.com/javase/8/docs/api/java/util/List.html">Interface List</a>
  */
 public class MailHistogramBuilder {
@@ -20,11 +20,11 @@ public class MailHistogramBuilder {
      * @param mailList Valid e-mail list.
      * @return Histogram with keys of type String.
      */
-    public static Histogram<String> build(List<Mail> mailList) {
+    public static Histogram<String> build(List<String> mailList) {
         Histogram<String> histogram = new Histogram<>();
 
-        for(Mail mail: mailList) {
-            histogram.increment(mail.getDomain());
+        for(String mail: mailList) {
+            histogram.increment(mail);
         }
         return histogram;
     }

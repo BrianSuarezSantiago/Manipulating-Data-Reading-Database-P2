@@ -13,7 +13,7 @@ import java.io.IOException;
  * file and creating a list of valid e-mail domains.
  *
  * @author Brian Suárez Santiago
- * @version 1.0.0
+ * @version 2.0.0
  * @see <a href="https://docs.oracle.com/javase/7/docs/api/java/io/FileReader.html">Class FileReader</a>
  * @see <a href="https://docs.oracle.com/javase/7/docs/api/java/io/package-summary.html">Package java.io</a>
  * @see <a href="https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html">Class ArrayList</a>

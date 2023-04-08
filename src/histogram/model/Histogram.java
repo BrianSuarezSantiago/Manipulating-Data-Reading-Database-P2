@@ -13,7 +13,7 @@ import java.util.Set;
  *
  * @param <T> Generic Java type.
  * @author Brian Suárez Santiago
- * @version 1.0.0
+ * @version 2.0.0
  * @see <a href="https://docs.oracle.com/javase/8/docs/api/java/util/Map.html">Interface Map</a>
  * @see <a href="https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html">Class HashMap</a>
  * @see <a href="https://docs.oracle.com/javase/8/docs/api/java/util/Set.html">Interface Set</a>
